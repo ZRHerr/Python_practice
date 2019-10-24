@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Dictionaries", "Dictionaries\Dictionaries.pyproj", "{DF78982D-9D2D-420D-81CD-D6ABD2529BE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF78982D-9D2D-420D-81CD-D6ABD2529BE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF78982D-9D2D-420D-81CD-D6ABD2529BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63AB20EE-FB1B-4435-AF4D-FC063BF8B48D}
+	EndGlobalSection
+EndGlobal
