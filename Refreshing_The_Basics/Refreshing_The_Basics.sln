@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29411.108
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Refreshing_The_Basics", "Refreshing_The_Basics\Refreshing_The_Basics.pyproj", "{A69DFD2F-F829-4534-867E-17D4AF303236}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A69DFD2F-F829-4534-867E-17D4AF303236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A69DFD2F-F829-4534-867E-17D4AF303236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A5ACFA2-698D-4359-9B67-A5C57B1F9D62}
+	EndGlobalSection
+EndGlobal
