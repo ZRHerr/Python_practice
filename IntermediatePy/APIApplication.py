@@ -1,9 +1,7 @@
 # For viewing popular GitHub Repos sorted by stars using the
 # GitHub Search API.
 
-# To run:
-# (env) $ python -m pip install -r requirements.txt
-# (env) $ export FLASK_ENV=development; python3 -m flask run
+
 from flask import Flask, render_template, request
 
 from githubAPI.GithubAPI import repos_with_most_stars
