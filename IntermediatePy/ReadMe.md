@@ -4,12 +4,13 @@ This will search github repositories finding the repositories with the most star
 
 ## Getting Started
 To run:
-(env) $ python -m pip install -r requirements.txt
-(env) $ export FLASK_ENV=development; python3 -m flask run
+* (env) $ python -m pip install -r requirements.txt
+* (env) $ export FLASK_ENV=development; python3 -m flask run
 
 ### Prerequisites
-flask
-requests
+* **add these to requirements.txt**
+* flask
+* requests
 
 ## Built With
 
